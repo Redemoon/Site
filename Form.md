@@ -8,5 +8,5 @@
 - Bot pra pegar quem são os adms atuais (talvez?)
 - Linkagem de conta do mine com o discord (tbm talvez?)
 - Pesquisa de lores
-- Conexões entre lores
+- Conexões entre lores (partes do texto mostram sua relação com outro(s) personagem(s)) 
 - Biblioteca publica de lores (se for interessante)
